@@ -30,7 +30,7 @@ interests:
 education:
   courses:
     - course: PhD in Psychology
-      institution: Maastricht University & University of Tartu (Double degree
+      institution: Maastricht University & University of Tartu (Double degree)
       year: 2022
     - course: M.Sc.in Psychological Counseling
       institution: Tbilisi State University
