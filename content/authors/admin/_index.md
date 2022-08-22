@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nino Gugushvili
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Maastricht University
+    url: https://www.maastrichtuniversity.nl/about-um/faculties/faculty-psychology-and-neuroscience
+  - name: University of Tartu 
+    url: https://ut.ee/en/institute-psychology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include digital communication technologies (smartphones & social media) computer-mediated communication, and mental health.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyberpsychology
+  - Mental health
+  - Smartphones
+  - Social media
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Psychology
+      institution: Maastricht University & University of Tartu (Double degree
+      year: 2022
+    - course: M.Sc.in Psychological Counseling
+      institution: Tbilisi State University
+      year: 2014
+    - course: BA in Psychology
+      institution: Tbilisi State University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +49,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/gugushvili_n
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=b2SVWpoAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ngugushvili
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/gugushvili/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +74,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a quantitative researcher with eight years of experience, doing research in multiple settings, ranging from governmental to non-governmental and academic areas. I  work with different types of data (cross-sectional, longitudinal, secondary) and use various statistical tools and methods to tackle the research questions, including multivariate regression analysis, SEM, and multilevel modelling. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As of now, I am a final-year doctoral student at Maastricht University and the University of Tartu. My research focuses on digital communication technology usage and its impact on mental health. I am also a (self-taught) Rstats enthusiast and an unconventional sci-fi geek.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
