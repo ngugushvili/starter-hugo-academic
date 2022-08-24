@@ -9,10 +9,9 @@ authors:
   - Nan Van Geloven
   - Estate Lelashvili
   - Giorgi Kalandarishvili
-  - author
-  - Eric Vermetten
   - admin
-  - Ethan Kross
+  - Eric Vermetten
+
 
 # Author notes (optional)
 # author_notes:
