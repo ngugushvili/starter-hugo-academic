@@ -52,7 +52,7 @@ social:
     link: https://twitter.com/gugushvili_n
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=b2SVWpoAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=3-XCdsEAAAAJ&hl=en&inst=13291755310766122872&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/ngugushvili
