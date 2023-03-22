@@ -6,7 +6,7 @@ title: Nino Gugushvili
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -76,6 +76,6 @@ highlight_name: true
 
 I am a quantitative researcher with eight years of experience, doing research in multiple settings, ranging from governmental to non-governmental and academic areas. I  work with different types of data (cross-sectional, longitudinal, secondary) and use various statistical tools and methods to tackle the research questions, including multivariate regression analysis, SEM, and multilevel modelling. 
 
-As of now, I am a post doctoral researcher at Maastricht University. My research focuses on digital communication technology usage and its impact on mental health. I am also a (self-taught) Rstats enthusiast and an unconventional sci-fi geek.
+As of now, I am a postdoctoral researcher at Maastricht University. My research focuses on digital communication technology usage and its impact on mental health. I am also a (self-taught) Rstats enthusiast and an unconventional sci-fi geek.
 
 
