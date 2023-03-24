@@ -12,8 +12,7 @@ role: Postdoctoral Researcher
 organizations:
   - name: Maastricht University
     url: https://www.maastrichtuniversity.nl/about-um/faculties/faculty-psychology-and-neuroscience
-  - name: University of Tartu 
-    url: https://ut.ee/en/institute-psychology
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include digital communication technologies (smartphones & social media) computer-mediated communication, and mental health.
